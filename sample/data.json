@@ -1,0 +1,92 @@
+[
+    {
+        "entityId": "1",
+        "name": "Empresa 1",
+        "identificationNumber": 123456712,
+        "expirationDate": "2030-01-09",
+        "contactName": "Juan",
+        "contactEmail": "juanc1@gmail.com",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/85/Logo-Test.png"
+    },
+    {
+        "entityId": "2",
+        "name": "Empresa 2",
+        "identificationNumber": 123456712,
+        "expirationDate": "2030-01-09",
+        "contactName": "Juan",
+        "contactEmail": "juanc2@gmail.com",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/85/Logo-Test.png"
+    },
+    {
+        "entityId": "3",
+        "name": "Empresa 3",
+        "identificationNumber": 123456712,
+        "expirationDate": "2030-01-09",
+        "contactName": "Juan",
+        "contactEmail": "juanc3@gmail.com",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/85/Logo-Test.png"
+    },
+    {
+        "entityId": "4",
+        "name": "Empresa 4",
+        "identificationNumber": 123456712,
+        "expirationDate": "2030-01-09",
+        "contactName": "Juan",
+        "contactEmail": "juanc4@gmail.com",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/85/Logo-Test.png"
+    },
+    {
+        "entityId": "5",
+        "name": "Empresa 5",
+        "identificationNumber": 123456712,
+        "expirationDate": "2030-01-09",
+        "contactName": "Juan",
+        "contactEmail": "juanc5@gmail.com",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/85/Logo-Test.png"
+    },
+    {
+        "entityId": "6",
+        "name": "Empresa 6",
+        "identificationNumber": 123456712,
+        "expirationDate": "2030-01-09",
+        "contactName": "Juan",
+        "contactEmail": "juanc6@gmail.com",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/85/Logo-Test.png"
+    },
+    {
+        "entityId": "7",
+        "name": "Empresa 7",
+        "identificationNumber": 123456712,
+        "expirationDate": "2030-01-09",
+        "contactName": "Juan",
+        "contactEmail": "juanc7@gmail.com",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/85/Logo-Test.png"
+    },
+    {
+        "entityId": "8",
+        "name": "Empresa 8",
+        "identificationNumber": 123456712,
+        "expirationDate": "2030-01-09",
+        "contactName": "Juan",
+        "contactEmail": "juanc8@gmail.com",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/85/Logo-Test.png"
+    },
+    {
+        "entityId": "9",
+        "name": "Empresa 9",
+        "identificationNumber": 123456712,
+        "expirationDate": "2030-01-09",
+        "contactName": "Juan",
+        "contactEmail": "juanc9@gmail.com",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/85/Logo-Test.png"
+    },
+    {
+        "entityId": "10",
+        "name": "Empresa 10",
+        "identificationNumber": 123456712,
+        "expirationDate": "2030-01-09",
+        "contactName": "Juan",
+        "contactEmail": "juanc10@gmail.com",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/85/Logo-Test.png"
+    }
+]

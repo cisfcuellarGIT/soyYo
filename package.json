@@ -1,0 +1,33 @@
+{
+  "name": "soyyo-sebastian-cuellar",
+  "version": "1.0.0",
+  "description": "Test de SoyYo",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cisfcuellarGIT/soyYo.git"
+  },
+  "author": "Juan Sebastian Cuellar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cisfcuellarGIT/soyYo/issues"
+  },
+  "homepage": "https://github.com/cisfcuellarGIT/soyYo#readme",
+  "dependencies": {
+    "celebrate": "^15.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.3"
+  },
+  "devDependencies": {
+    "jest": "^28.1.2",
+    "nodemon": "^2.0.19",
+    "supertest": "^6.2.4"
+  }
+}
